@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @harshnanda17
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m python enthusiast
+- 🤖 I'm passionate about AI
 - 🧑‍💻 less code and make more 
 
 <!---
