@@ -57,6 +57,19 @@ Machine learning model for predicting real estate prices using data analysis and
 
 ---
 
+# 🏆 Certifications & Achievements
+
+- 🎓 **Google Crash Course on Python** – Coursera, 2023  
+  [Verify Certificate](https://coursera.org/verify/AEPMNU8WYBUJ)  
+
+- 📊 **IBM Data Science Crash Course** – CognitiveClass, 2024  
+  [Verify Certificate](https://courses.cognitiveclass.ai/certificates/8d67271b567a49e692e97766de81acd0)  
+
+- 🚀 **ISRO Geodata Processing using Python & Machine Learning** – IIRS, 2025  
+  [Verify Certificate](https://certificate.iirs.gov.in)  
+
+---
+
 # 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=harshnanda17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
